@@ -6,4 +6,4 @@ Prática de gerenciamento de diretórios, manipulação de ficheiros e automaç�
 ## Evidências da Execução
 Captura de ecrã do terminal detalhando todos os passos seguidos na atividade:
 
-![Evidência do Terminal](./evidencia.png)
+![Evidência do Terminal](./image.png)
